@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sanjit Besthamalla</h1>
 <h3 align="center">Computer Science and technology enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjit1806&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjit1806" /> </p>
+
 - 📫 How to reach me **sanjit.besthamalla@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LCoaUP7SIoueaak_fL1Kr_Be_KsbjI-F/view?usp=drive_link](https://drive.google.com/file/d/1LCoaUP7SIoueaak_fL1Kr_Be_KsbjI-F/view?usp=drive_link)
