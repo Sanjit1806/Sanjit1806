@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **sanjit.besthamalla@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1-5Gxz_F_Aai8q9hONJTF42-iu9EMbYWy/view?usp=drive_link)
+- 📄 Know about my experiences - [About me](https://drive.google.com/file/d/1-5Gxz_F_Aai8q9hONJTF42-iu9EMbYWy/view?usp=drive_link)
 
 
 
