@@ -26,7 +26,7 @@
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-%234285F4.svg?style=for-the-badge&logo=data&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanjit1806&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sanjit1806&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjit1806&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
